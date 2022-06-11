@@ -36,3 +36,6 @@ https://youtu.be/bTdHXDjxMps
   * Integration with CI tool i.e. Jenkins
   * Convert to pageObject desgin pattern or gerkins 
   * API call for setup and tearDown 
+
+## UX  Challenge 
+https://docs.google.com/document/d/1N4e6vgiLFqpKwjEb5j20IJFxXynsH4jzpiYGjdAc6Ks/edit?usp=sharing
