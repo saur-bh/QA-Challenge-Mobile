@@ -17,7 +17,7 @@ The framework is based on emulator for andoird 12.0 and is configurable for othe
 1. User get confirmation dialog with ETH value.
 
 ## Demo 
-
+https://youtu.be/bTdHXDjxMps
 
 ## Setup
 
