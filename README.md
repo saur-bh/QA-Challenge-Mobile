@@ -11,6 +11,7 @@ The framework is based on emulator for andoird 12.0 and is configurable for othe
 - javaScript 
 - mocha framework 
 - webdriverio
+- vsCode
 
 ## UseCase which is automated 
 1. User get confirmation dialog with ETH value.
@@ -21,7 +22,9 @@ The framework is based on emulator for andoird 12.0 and is configurable for othe
 ## Setup
 
 * Must have NodeJS and NPM installed (https://nodejs.org/en/)
-* Install dependencies by running `npm install`
+* Launch vsCode editor 
+* Goto command prompt and clone the current repository via command : git clone https://github.com/saur-bh/QA-Challenge-Mobile.git
+* Install dependencies by running `npm install` from the command prompt.
 
 ## Running Tests
 
